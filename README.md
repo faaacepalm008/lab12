@@ -32,8 +32,8 @@ docker-compose up -d --build
 ![Zrzut ekranu 2024-06-6 o 16 14 27](https://github.com/faaacepalm008/lab12/assets/83872764/13e60735-a772-43db-b652-192e3e7a90ad)
 ![Zrzut ekranu 2024-06-6 o 16 15 17](https://github.com/faaacepalm008/lab12/assets/83872764/8a59270b-d542-495a-875f-1f2825cb12b2)
 
-# Dostęp do aplikacji
-# OPIS struktur
+
+# Opis struktur
 ## 1. Aplikacja PHP
 Otwórz przeglądarkę i przejdź do http://localhost:4001. Powinieneś zobaczyć aplikację PHP wyświetlającą informacje o użytkownikach z bazy danych MySQL.
 
